@@ -14,3 +14,5 @@ Understanding crime in Chicago year over year
 6) Is there any district with more crime than others?
 
 7) What was the percentage of theft year over year?
+
+8) The Sql queries i used are in the sql_queries file.
