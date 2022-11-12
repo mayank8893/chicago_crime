@@ -17,6 +17,7 @@ Understanding crime in Chicago year over year
 
 8) The Sql queries i used are in the sql_queries file.
 
+I generated the following plots in tableau to explain the results.
 
 <img width="799" alt="Screen Shot 2022-11-12 at 5 07 01 PM" src="https://user-images.githubusercontent.com/69361645/201496677-fd1a56ff-8558-49e1-86b8-cde1ab03c400.png">
 
